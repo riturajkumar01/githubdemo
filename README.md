@@ -1,4 +1,4 @@
 # githubdemo
 THis is my fir repo 
 <br>
-Author : Rituraj Kumar
+Author : Rituraj Kumar(thakur)
